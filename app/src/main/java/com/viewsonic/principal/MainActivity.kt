@@ -10,6 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.viewsonic.mylibrary2.Test2
 import com.viewsonic.principal.ui.theme.PrincipalTheme
 
 class MainActivity : ComponentActivity() {
@@ -44,3 +45,9 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
+
+fun test2() {
+    Test2().test()
+}
+
+fun testMyLib() {}
