@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "Principal"
 include ':app'
 include ':mylibrary2'
+include ':vslibrary'
