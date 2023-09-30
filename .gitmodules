@@ -1,0 +1,3 @@
+[submodule "vslibrary"]
+	path = vslibrary
+	url = https://github.com/AndyLai13/vslibrary.git
